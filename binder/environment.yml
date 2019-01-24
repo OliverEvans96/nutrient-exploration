@@ -1,0 +1,9 @@
+name: nutrient-experiment
+channels:
+    - conda-forge
+dependencies:
+    - numpy
+    - pandas
+    - scipy
+    - ipywidgets>=7.0.0
+    - qgrid
